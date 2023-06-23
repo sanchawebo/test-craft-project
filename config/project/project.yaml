@@ -1,0 +1,53 @@
+dateModified: 1687518815
+email:
+  fromEmail: s.weber@mpr-net.com
+  fromName: test-craft-project
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  hardDisk:
+    hasUrls: true
+    name: 'Hard Disk'
+    settings:
+      path: '@webroot/uploads/images'
+    type: craft\fs\Local
+    url: '@web/uploads/images'
+meta:
+  __names__:
+    3f559248-e337-4421-9eb2-e53defb66f4c: Image # Image
+    8b5e6f60-c062-47db-a199-7858610a4176: About # About
+    9a8c4ef4-d057-4a8f-b733-24326b0cdebf: Description # Description
+    9b38e546-66d9-4906-afc7-ce0837b3ad3a: About # About
+    11ddbae3-ffa4-422e-91f4-1e3531312c78: 'Profile Photo' # Profile Photo
+    24c60d1a-36f3-47a6-b061-8e0604438df7: Quote # Quote
+    37db6881-931a-40b2-bcdf-b84a24172606: Summary # Summary
+    78fd2f5a-0378-433d-b4a1-e3b6f162639b: Topics # Topics
+    359e684e-6532-4090-a767-e4b6c0c7369f: Common # Common
+    0880fc81-bf0b-47ed-b97b-9b602590b449: Images # Images
+    983b69a5-bb43-4d36-96aa-04a0df1b127d: About # About
+    61185aeb-cea8-4497-86d5-0381a1d6f4f0: Text # Text
+    110327a1-6ee0-4ba5-8710-fd327db3878a: test-craft-project # test-craft-project
+    85356758-7e8d-40fe-abf8-c3ddd28ef070: Post # Post
+    a4747e06-48fb-4f3f-adf9-30df69c6922c: Text # Text
+    ae05b71c-b5da-40e9-b2c6-1cc5f486bcbb: Blog # Blog
+    b09a8bf9-e7f6-4cdd-9cda-419fc9002a00: Global # Global
+    b7d24705-d3df-4851-9b8d-73faf647224a: Bio # Bio
+    b10e2cae-c34c-46f8-a748-4386848c2805: Blog # Blog
+    ba172c41-1637-4c71-b776-19776b2303d3: Image # Image
+    c6760639-6298-49d9-9006-b06b33529250: 'Feature Image' # Feature Image
+    d0735f38-eb6c-4535-a1c9-6d9432906c74: test-craft-project # test-craft-project
+    d7afcaf9-fce6-43b0-b776-49ce2aee2ff1: 'Site Info' # Site Info
+    e735de07-c4a4-4a39-9519-bb4bbde8dc2f: 'Post Content' # Post Content
+    f6ae956a-d3fe-4c5b-a322-66131e7eaeb5: Topics # Topics
+    f35fdadd-d77c-4429-8160-372aed9769d3: Quote # Quote
+system:
+  edition: solo
+  live: true
+  name: test-craft-project
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

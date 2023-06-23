@@ -1,0 +1,46 @@
+defaultPlacement: end
+fieldLayouts:
+  6d8910ae-5af7-4837-afb1-91d024e65d47:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            uid: b241fc1e-7d29-4a2a-b5b5-c50c5f9fe139
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 049bf866-88ad-476a-bb0d-853562c52414
+        userCondition: null
+handle: topics
+name: Topics
+siteSettings:
+  d0735f38-eb6c-4535-a1c9-6d9432906c74: # test-craft-project
+    hasUrls: true
+    template: blog/_topic
+    uriFormat: 'blog/topic/{slug}'
+structure:
+  maxLevels: 1
+  uid: a7bade1c-74fd-459d-b066-81f01d4dbbbd

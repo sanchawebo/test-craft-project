@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: about
+name: About
+propagationMethod: all
+siteSettings:
+  d0735f38-eb6c-4535-a1c9-6d9432906c74: # test-craft-project
+    enabledByDefault: true
+    hasUrls: true
+    template: _singles/about
+    uriFormat: about
+type: single

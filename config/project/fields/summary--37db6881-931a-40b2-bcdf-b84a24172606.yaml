@@ -1,0 +1,19 @@
+columnSuffix: qhowaywv
+contentColumnType: text
+fieldGroup: b10e2cae-c34c-46f8-a748-4386848c2805 # Blog
+handle: summary
+instructions: 'Summaries should be one or two sentences.'
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 1
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

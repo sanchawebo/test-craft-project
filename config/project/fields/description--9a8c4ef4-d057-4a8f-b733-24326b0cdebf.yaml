@@ -1,0 +1,19 @@
+columnSuffix: ckcszlhy
+contentColumnType: text
+fieldGroup: b09a8bf9-e7f6-4cdd-9cda-419fc9002a00 # Global
+handle: description
+instructions: null
+name: Description
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

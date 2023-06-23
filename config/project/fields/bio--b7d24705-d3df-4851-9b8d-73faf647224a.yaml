@@ -1,0 +1,19 @@
+columnSuffix: lhqfieme
+contentColumnType: text
+fieldGroup: 8b5e6f60-c062-47db-a199-7858610a4176 # About
+handle: bio
+instructions: null
+name: Bio
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 8
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
